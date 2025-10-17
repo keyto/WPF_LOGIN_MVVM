@@ -15,3 +15,24 @@ D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF
 D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.pdb
 D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\View\LoginView.g.cs
 D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\View\LoginView.baml
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\bin\Debug\WPF-LoginForm.exe.config
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\bin\Debug\WPF-LoginForm.exe
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\bin\Debug\WPF-LoginForm.pdb
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.csproj.AssemblyReference.cache
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\Views\LoginView.g.cs
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\Views\MainWindow.g.cs
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\App.g.cs
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm_MarkupCompile.cache
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm_MarkupCompile.lref
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\Views\LoginView.baml
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\Views\MainWindow.baml
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.g.resources
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF_LoginForm.Properties.Resources.resources
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.csproj.GenerateResource.cache
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.exe
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.pdb
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\WPF-LoginForm.exe.config

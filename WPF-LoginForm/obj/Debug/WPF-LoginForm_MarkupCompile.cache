@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\obj\Debug\
 WPF_LoginForm
 none
 false
 DEBUG;TRACE
-D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\App.xaml
-2-268177722
+C:\Users\CodigoKreativo\source\repos\#WPF\SistemaLogin\WPF-LoginForm\App.xaml
+31958221439
 
-6861700954
-13-1142990016
-MainWindow.xaml;View\LoginView.xaml;
+15-1196219820
+13-38814620
+CustomControls\BindablePasswordBox.xaml;Views\LoginView.xaml;Views\MainWindow.xaml;
 
-False
+True
 
